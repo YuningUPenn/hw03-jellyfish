@@ -4,7 +4,7 @@
 
 This is a simple jellyfish build with Houdini. Here's a demo video for my jellyfish
 
-![demo](https://github.com/user-attachments/assets/09a305e9-903b-4daa-ae50-2a6223e85eef)
+https://github.com/user-attachments/assets/09a305e9-903b-4daa-ae50-2a6223e85eef
 
 (Previous README.md has changed name as INSTRUCTION.md aside)
 
